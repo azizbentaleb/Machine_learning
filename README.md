@@ -25,7 +25,7 @@ In machine learning, the quality of the data significantly impacts the performan
 ## 🛠️ Projects Overview :
 
 ### Project 1: Loan Approval Classification Dataset
-## This dataset is a synthetic version inspired by the original Credit Risk dataset on Kaggle and enriched with additional variables based on Financial Risk for Loan Approval data. SMOTENC was used to simulate new data points to enlarge the instances. The dataset is structured for both categorical and continuous features.
+This dataset is a synthetic version inspired by the original Credit Risk dataset on Kaggle and enriched with additional variables based on Financial Risk for Loan Approval data. SMOTENC was used to simulate new data points to enlarge the instances. The dataset is structured for both categorical and continuous features.
 
 Metadata : 
 The dataset contains 45,000 records and 14 variables, each described below:
